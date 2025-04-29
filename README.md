@@ -28,10 +28,8 @@ website-scraper/
 ├── README.md                  # Project description, setup instructions, etc.
 ├── requirements.txt           # Lists Python dependencies
 ├── .gitignore                 # Specifies intentionally untracked files that Git should ignore
-├── .devcontainer/             # (Optional but Recommended) Dev Container configuration
-│   └── devcontainer.json      # Configuration for development environments like GitHub Codespaces and VS Code Dev Containers
 ├── website_scraper.log        # (Generated after running) Log file for scraper activity and errors
-└── scrape_YYYY-MM-DD.csv      # (Generated after running) CSV output file with scraped data (YYYY-MM-DD is the date of the run)
+└── scrape_YYYY-MM-DD.csv       # (Generated after running) CSV output file with scraped data (YYYY-MM-DD is the date of the run)
 ```
 
 ## 🛠️ Setup
