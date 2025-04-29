@@ -55,8 +55,6 @@ You have several options for setting up your environment to run this website scr
     ```bash
     pip install -r requirements.txt
     ```
-    
-    (Alternatively, if you don't have `requirements.txt`, run: `pip install requests beautifulsoup4 lxml`)
 
 ## 🧩 Configuration
 
