@@ -18,8 +18,6 @@ This Python script is a website scraper designed to crawl a given website and ex
 
 *   **Logging:**  Provides a log file (`website_scraper.log`) to track the scraping process, including successes, errors, and `robots.txt` information.
 
-*   **Development Container Ready:** Includes configuration for easy setup in development environments like GitHub Codespaces using `.devcontainer/devcontainer.json`.
-
 ## 🧩 Project Structure
 
 ```
@@ -35,16 +33,6 @@ website-scraper/
 ## 🛠️ Setup
 
 You have several options for setting up your environment to run this website scraper:
-
-**Option 1: Using GitHub Codespaces (Recommended - Easiest)**
-
-1.  **Click the "Code" button** on your GitHub repository page.
-
-2.  **Select "Create codespace on main".** This will automatically launch a fully configured development environment in your browser, including Python and all necessary dependencies.  Codespaces uses the `.devcontainer.json` file in the repository to set up the environment.
-
-3.  **Skip to the "Configuration" and "Running the Scraper" sections.**
-
-**Option 2: Local Setup (Without Virtual Environment)**
 
 1.  **Clone or Download the Repository:**  Clone this repository to your local machine or download it as a ZIP file.
 
