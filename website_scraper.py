@@ -9,7 +9,7 @@ from urllib.robotparser import RobotFileParser
 
 # --- Configuration ---
 WEBSITE_URL = "YOUR_WEBSITE_URL_HERE"  # <--- Placeholder URL - REPLACE THIS!
-DELAY_BETWEEN_REQUESTS = 1  # Seconds
+DELAY_BETWEEN_REQUESTS = 5  # Seconds
 CSV_FILENAME = "scrape_{}.csv" # Filename changed to "scrape_YYYY-MM-DD.csv"
 LOG_FILENAME = "website_scraper.log"
 MEDIA_EXTENSIONS = ['.jpg', '.jpeg', '.png', '.gif', '.bmp', '.tiff', '.tif',
